@@ -76,19 +76,22 @@ Once the setup is complete, you can run the Streamlit application.
 ## Project Structure
 
 Flashcard-Generator/
-├── app.py                  # Main Streamlit application file
-├── llm_model.py            # Contains the QAGenerator class for LLM interactions
-├── requirements.txt        # Lists all Python dependencies
-├── utils.py                # Utility functions for text extraction and preprocessing
-└── README.md               # This README file
+app.py                  # Main Streamlit application file
+llm_model.py            # Contains the QAGenerator class for LLM interactions
+requirements.txt        # Lists all Python dependencies
+utils.py                # Utility functions for text extraction and preprocessing
+README.md               # This README file
 
 
 ## 🖼Sample Outputs
 
-  ![Screenshot 2025-06-16 120054](https://github.com/user-attachments/assets/86254e13-7680-4d18-927b-741e91b64ef7)     ![Screenshot 2025-06-16 120218](https://github.com/user-attachments/assets/197ac0ab-6a5d-446e-8cfa-2c170d4d1bbc)
+  ![Screenshot 2025-06-16 120054](https://github.com/user-attachments/assets/86254e13-7680-4d18-927b-741e91b64ef7)    
+  
+  ![Screenshot 2025-06-16 120218](https://github.com/user-attachments/assets/197ac0ab-6a5d-446e-8cfa-2c170d4d1bbc)
 
-
-  ![Screenshot 2025-06-16 120404](https://github.com/user-attachments/assets/aa1f8e4a-05b2-42cd-a3d0-d491b7e9b636)      ![image](https://github.com/user-attachments/assets/dbb82287-ecbf-4b57-b54b-6f2a45cc825f)
+  ![Screenshot 2025-06-16 120404](https://github.com/user-attachments/assets/aa1f8e4a-05b2-42cd-a3d0-d491b7e9b636)  
+  
+  ![image](https://github.com/user-attachments/assets/dbb82287-ecbf-4b57-b54b-6f2a45cc825f)
 
 
 ##  Technologies Used
