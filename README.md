@@ -76,11 +76,11 @@ Once the setup is complete, you can run the Streamlit application.
 ## Project Structure
 
 **Flashcard-Generator**
- *app.py                  : Main Streamlit application file
- *llm_model.py            : Contains the QAGenerator class for LLM interactions
- *requirements.txt        : Lists all Python dependencies
- *utils.py                : Utility functions for text extraction and preprocessing
- *README.md                :This README file
+ * **app.py** Main Streamlit application file
+ * **llm_model.py** Contains the QAGenerator class for LLM interactions
+ * **requirements.txt** Lists all Python dependencies
+ * **utils.py** Utility functions for text extraction and preprocessing
+ * **README.md** This README file
 
 
 ## 🖼Sample Outputs
