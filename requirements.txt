@@ -3,3 +3,4 @@ pypdf
 transformers
 torch
 sentencepiece
+pandas
