@@ -83,7 +83,7 @@ Once the setup is complete, you can run the Streamlit application.
  * **README.md** This README file
 
 
-## 🖼Sample Outputs
+## Sample Outputs
 
   ![Screenshot 2025-06-16 120054](https://github.com/user-attachments/assets/86254e13-7680-4d18-927b-741e91b64ef7)    
   
