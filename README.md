@@ -50,7 +50,7 @@ Follow these steps to set up and run the Flashcard Generator on your local machi
     ```
     This will install Streamlit, PyPDF2, Transformers, PyTorch, and SentencePiece.
 
-## 💡 Usage
+##  Usage
 
 Once the setup is complete, you can run the Streamlit application.
 
@@ -64,16 +64,16 @@ Once the setup is complete, you can run the Streamlit application.
 2.  **Interact with the application:**
     * **Choose Input Method:** Select either "Upload File" to upload a PDF or `.txt` document, or "Paste Text" to directly input your content.
     * **Adjust Number of Flashcards:** Use the slider to specify how many flashcards you want to generate.
-    * **Generate Flashcards:** Click the "Generate Flashcards ✨" button. The application will process your content and display the generated Q&A pairs.
+    * **Generate Flashcards:** Click the "Generate Flashcards " button. The application will process your content and display the generated Q&A pairs.
     * **Review Difficulty:** Observe the colored strips on each flashcard indicating its simulated difficulty.
-        * ⚪ **White Strip:** Easy Question
-        * 🟡 **Yellow Strip:** Medium Question
-        * ⚫ **Black Strip:** Hard Question
+        *  **White Strip:** Easy Question
+        *  **Yellow Strip:** Medium Question
+        *  **Black Strip:** Hard Question
         *(Note: Difficulty is currently simulated for demonstration purposes.)*
-    * **Export:** Use the "Download Flashcards as CSV ⬇️" button to save your generated flashcards.
+    * **Export:** Use the "Download Flashcards as CSV ⬇" button to save your generated flashcards.
       
 
-## 📁 Project Structure
+## Project Structure
 
 Flashcard-Generator/
 ├── app.py                  # Main Streamlit application file
@@ -83,7 +83,7 @@ Flashcard-Generator/
 └── README.md               # This README file
 
 
-## 🖼️ Sample Outputs
+## 🖼Sample Outputs
 
   ![Screenshot 2025-06-16 120054](https://github.com/user-attachments/assets/86254e13-7680-4d18-927b-741e91b64ef7)     ![Screenshot 2025-06-16 120218](https://github.com/user-attachments/assets/197ac0ab-6a5d-446e-8cfa-2c170d4d1bbc)
 
@@ -91,7 +91,7 @@ Flashcard-Generator/
   ![Screenshot 2025-06-16 120404](https://github.com/user-attachments/assets/aa1f8e4a-05b2-42cd-a3d0-d491b7e9b636)      ![image](https://github.com/user-attachments/assets/dbb82287-ecbf-4b57-b54b-6f2a45cc825f)
 
 
-## ⚙️ Technologies Used
+##  Technologies Used
 
 * **Streamlit:** For building the interactive web application.
 * **Hugging Face Transformers:** For leveraging pre-trained LLMs for Question Generation (`valhalla/t5-base-qg-hl`) and Question Answering (`distilbert-base-uncased-distilled-squad`).
